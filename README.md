@@ -1,2 +1,2 @@
-# StartVebGo
+# StartWebGo
 Простая страница на го
